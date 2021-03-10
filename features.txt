@@ -1,0 +1,11 @@
+Gamebot Features:
+
+ - Shows new likes on your maps/mods between your last and latest command
+ - Highlights featured maps with yellow color
+ - You can now check your assets list
+ - More details to profile command, such as number of maps/assets/mods, partnership etc
+ - You can count total maps plays on profiles
+ - You can check how many plays are online on a map
+ - You can check the maps added to a player's favourites
+ - Seperate command for viewing a single map in details, shows thumb, description, likes, plays, version and lot more
+ - You can start tracking likes and plays and view them in the form of graph
